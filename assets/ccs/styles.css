@@ -1,1 +1,25 @@
 /* USAR FONT RALEWAY de Google Fonts body { font-family: "Raleway", sans-serif; color: #fff; } Iconos de fontawesome en la seccion quienes: fas fa-plane fas fa-mountain fas fa-route Iconos de fontawesome en la seccion de footer fab fa-github-square fa-2x fab fa-linkedin fa-2xs fab fa-twitter-square fa-2x fab fa-facebook-square fa-2x  */
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.seccion_iconos {
+    background-color: aqua;
+}
+
+.card-textsomos {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+main{
+    padding: 3.3rem
+}
